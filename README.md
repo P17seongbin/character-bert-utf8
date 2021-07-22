@@ -1,4 +1,10 @@
-# CharacterBERT
+# CharacterBERT-UTF8(WIP)
+
+This (forked) repository is implementation of CharacterBERT that can be cope with entire UTF-8 character scope (Currently not implemeneted)
+
+Below content is README.md of original repo
+
+===============================
 
 [paper]: https://arxiv.org/abs/2010.10392
 
